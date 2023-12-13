@@ -1,17 +1,18 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-# React Portfolio
+# Redux E-Commerce
 
 ## Description
 
-This is a refactored e-commerce plataform to use Redux.
+This is a refactored e-commerce plataform to use Redux instead of context API.
 
 You can check the deployed application [here]().
 
 ## Screenshots
 
-![Screentshot 1]()
-![Screentshot 2]()
+![Screentshot 1](./client/public/Screenshot%202023-12-12%20224435.png)
+![Screentshot 2](./client/public/Screenshot%202023-12-12%20224455.png)
+![Screentshot 3](./client/public/Screenshot%202023-12-12%20224506.png)
 
 ## Table of Contents
 
@@ -30,7 +31,7 @@ N/A
 
 ## Usage
 
-N/A
+You can browse around, add items to your cart, remove items from your cart, choose a category and when you click on checkout you will be redirected to the stripe payment method.
 
 ## Credits
 
